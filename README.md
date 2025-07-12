@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Nyota Innovations Frontend
 
 This repository contains the frontend code for the Nyota Innovations website, showcasing advanced technology solutions including AI, Augmented Reality (AR), Virtual Reality (VR), and Digital Transformation.
@@ -28,7 +28,7 @@ This repository contains the frontend code for the Nyota Innovations website, sh
 
 ## Credits
 
-Frontend design and implementation by [Your Name].
+Frontend design and implementation by Nabaggala Racheal Robins.
 
 ## License
 
