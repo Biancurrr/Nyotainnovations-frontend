@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nyota Innovations Frontend
 
 This repository contains the frontend code for the Nyota Innovations website, showcasing advanced technology solutions including AI, Augmented Reality (AR), Virtual Reality (VR), and Digital Transformation.
@@ -36,3 +37,7 @@ This project is licensed under the MIT License.
 ## Live Demo
 
 (Include link here if deployed, e.g., Vercel URL)
+=======
+# Nyotainnovations-frontend
+Nyota innovations
+>>>>>>> 4784c88e49857a6dc08063d5451eef6a0e8cb99d
